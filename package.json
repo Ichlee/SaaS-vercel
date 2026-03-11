@@ -1,0 +1,17 @@
+{
+  "name": "techassistbot",
+  "version": "1.0.0",
+  "description": "Chatbot SaaS para respostas automáticas no WhatsApp em empresas de manutenção de computadores e notebooks",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "axios": "^1.6.0"
+  },
+  "author": "Gabriel",
+  "license": "MIT"
+}
